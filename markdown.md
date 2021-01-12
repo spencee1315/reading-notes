@@ -28,7 +28,7 @@
 - Unordered list line 3
 
 
-> Don't forget about the power of the EMOJI
+> Don't forget about the power of the EMOJI <br>
 :grinning: :100: :dizzy: :ok_hand: :selfie:
 
 
