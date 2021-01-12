@@ -14,7 +14,7 @@
 > Paragraphs
 * Keeps Paragraphs Left-Aligned
 * For Linebreaks use 'trailing whitespace' or the ``<br>`` html tag.
-** **Be Careful** You can use two or more spaces for line breaks ***BUT*** it is controversial because it is *hard to see trailing whitespace in an editor*
+* **Be Careful** You can use two or more spaces for line breaks ***BUT*** it is controversial because it is *hard to see trailing whitespace in an editor*
    Fortunately, there is another option supported by nearly every Markdown application: the <br> HTML tag.
    
 > Cool Things Can be done with blockquotes and lists
