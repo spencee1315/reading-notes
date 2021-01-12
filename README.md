@@ -31,7 +31,7 @@ ____
 1.Effort and Perseverence
 *In other words:*
 
->Avoid that 'Gumption Trap' - the phenomenon of knowing what needs to be done, but lacking the motivation to do it.
+Avoid that 'Gumption Trap' - the phenomenon of knowing what needs to be done, but lacking the motivation to do it.
 >>Paying attention when I hit a road block, try to deflect or put off responsibility because something is difficult. It can be important to monitor behaviors of 'avoidance' and rather take a step back, and concentrate on the growth mindset. Once I level set, re-approach the problem little by little from another angle or until that other angle comes into focus.
 
 2.Maintaining Focus - Asking myself the right questions each day
