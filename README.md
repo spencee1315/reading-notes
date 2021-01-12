@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Author
+Elliott Spencer
 
-You can use the [editor on GitHub](https://github.com/spencee1315/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Description
+This is a collection of my readings for Codefellows. The Subject: Growth Mindset.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+>My name is Elliott Spencer and I am from Seattle, WA. :umbrella: I recently moved to San Diego, CA :palm_tree: back in August of this year and work as a coffee professional running a local wholesale program. I am beginning classes at Codefellows with the intent to persue a career in Software Development. This is my first lab assignment for CODE 102, learning Markdown.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```on my way to inlcude 5 types of Markup
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![A pitcure of me](/IMG_2334.jpg "A picture of me")
 
-### Jekyll Themes
+***To check out more about me please click the link below:***
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spencee1315/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[My GitHub Profile Page](https://github.com/settings/profile)
 
-### Support or Contact
+***
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### ***Reading Notes***:
+#### What is having a Growth Mindset?
+
+To have a *growth mindset* one must live by a fundamental blief that their **abilities** can be developed through perseverence and effort. More so, intelligence and talent are based on an individuals starting point but through a growth mindset comes a love of learning, a constant pursuit of knowledge and growth, and with that limitless potential. 
+
+____
+
+**Three _Reminders_ to Myself on how to maintain a growth mindset**
+
+1.Effort and Perseverence
+*In other words:*
+
+>Avoid that 'Gumption Trap' - the phenomenon of knowing what needs to be done, but lacking the motivation to do it.
+>>Paying attention when I hit a road block, try to deflect or put off responsibility because something is difficult. It can be important to monitor behaviors of 'avoidance' and rather take a step back, and concentrate on the growth mindset. Once I level set, re-approach the problem little by little from another angle or until that other angle comes into focus.
+
+2.Maintaining Focus - Asking myself the right questions each day
+
+* Use questions to help retain focus on aspects of my days that were successful and there for to reinforce, and the aspects of my days that are bad or negative. The questions will allow me to internalize strategies for creating more good days going forward. Certain questions will allow me to process criticism from others in a way that is helpful and allowing me to grow from the situations.
+
+> - What was the best part of the day?
+> - What went wrong, and how can I make sure it doesn’t happen again?
+> - Which aspects of my work am I most proud of?
+> - What can I do to improve the aspects I’m less proud of?
+
+3.How I Handle Obstacles
+
+* No Pain No Gain - taking the moment to consider all my feelings, how will I feel if I put off a particular task later? Recognizing how good I will feel if I just apply myself, or work a little harder, or push myself to get up for that morning run because it will feel so good.
+
+>> How do I respond when I notice myself losing focus? Remembering that the short-term struggles or challenges, even if they are frustrating at times will push me to grow and improve my abilities to process and work through problems if I just stay with it. Remembering that keeping with a growth mindset will open up my mind to being more creative and provide a window to solving new problems, achieving more and allow me to push the boundaries of my goals.
+
+### Thanks for visiting my page!
