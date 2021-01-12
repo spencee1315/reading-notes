@@ -49,6 +49,7 @@ Avoid that 'Gumption Trap' - the phenomenon of knowing what needs to be done, bu
 
 >> How do I respond when I notice myself losing focus? Remembering that the short-term struggles or challenges, even if they are frustrating at times will push me to grow and improve my abilities to process and work through problems if I just stay with it. Remembering that keeping with a growth mindset will open up my mind to being more creative and provide a window to solving new problems, achieving more and allow me to push the boundaries of my goals.
 
-### Check out my Markdown Reading!
+### Table of Contents!
 [Markdown Reading](markdown.md)
+[Coders Computer](coders_computer.md)
 
