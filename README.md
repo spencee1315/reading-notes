@@ -6,7 +6,7 @@ This is a collection of my readings for Codefellows. The Subject: Growth Mindset
 
 ### About Me
 
->My name is Elliott Spencer and I am from Seattle, WA. :umbrella: I recently moved to San Diego, CA :palm_tree: back in August of this year and work as a coffee professional running a local wholesale program. I am beginning classes at Codefellows with the intent to persue a career in Software Development. This is my first lab assignment for CODE 102, learning Markdown.
+>My name is Elliott Spencer and I am from Seattle, WA :umbrella: I recently moved to San Diego, CA :palm_tree: back in August of this year and work as a coffee professional running a local wholesale program. I am beginning classes at Codefellows with the intent to persue a career in Software Development. This is my first lab assignment for CODE 102, learning Markdown.
 
 ```on my way to inlcude 5 types of Markup
 ```
