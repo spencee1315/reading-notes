@@ -87,9 +87,7 @@ What are they? It is a text based interface to the system. You can type commands
   * Linux is case sensitive - Beware of silly typos.
 
 ### How it's similar
-1. 
-1.
-1.
-1.
+It's like the back-end of a GUI. By using commands and arguments you can take different paths through your system, almost like you were manually browsing the GUI.
+
 
 
