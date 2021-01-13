@@ -41,7 +41,7 @@ A text editor is a piece of software that allows you to write and manage text. S
 
 Per 'The Older Coder'
 
->> Choosing a text editor ends up being a very personal choice, as personal as the sports teams you support.
+> Choosing a text editor ends up being a very personal choice, as personal as the sports teams you support.
 
 * Choosing the right text editor is about giving yourself the features to help you be more efficient in your work and allow you to grow. Ideally the right text editor will grow with you and continue to push you further. For the most part the different text editors seem pretty similar. It seems simple but the best text editor might be the one that 'feels' the best to use or that you enjoy using most.
 
