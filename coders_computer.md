@@ -50,6 +50,8 @@ Per 'The Older Coder'
 Command Line (aka a Terminal) - you can have multiple terminals open.
 What are they? It is a text based interface to the system. You can type commands and receive feedback.
 
+**Cheat Sheet for Basic Terminal Usage**
+
 * Commands - typcially the first thing you type; (ls), (echo) to display messages, 
   * pwd - Print Working Directory (abbreviation) - it tells you your current/present working directory
   * ls - list. Without arguments it will just do a plain listing of the current location. It can be run with (-l) indicates a long list or (-l /etc) which tells not to list our current directory but to list that directories contents. (ls -a) - lists the contents of a directory, including hidden files.
