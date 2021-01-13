@@ -89,5 +89,4 @@ What are they? It is a text based interface to the system. You can type commands
 ### How it's similar
 It's like the back-end of a GUI. By using commands and arguments you can take different paths through your system, almost like you were manually browsing the GUI.
 
-
-
+[<== Back to Readme](README.md)
