@@ -81,12 +81,12 @@ Keep changes separate until you want to add them in
 ***Some Elements of using Git***
 
 - Seting up a Repository
-	- To change: $ cd test (cd = change directory)
-	- To use the git initcommand: $ git init (Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced.)
-	- Start tracking repository files: $ git add *.c $ git add LICENSE $ git commit -m “any message here” (Now, your files are tracked and there’s an initial commit.)
+	- To change: `$ cd test` (cd = change directory)
+	- To use the git initcommand: `$ git init` (Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced.)
+	- Start tracking repository files: `$ git add *.c $ git add LICENSE $ git commit -m “any message here”` (Now, your files are tracked and there’s an initial commit.)
 - Cloning
-	- Creating a copy of an existing Git repo from a server: $ git clone https://github.com/test
-	- To clone a repo into a directory with another name of your choosing: $ git clone https://github.com/test mydirectory
+	- Creating a copy of an existing Git repo from a server: `$ git clone https://github.com/test`
+	- To clone a repo into a directory with another name of your choosing: `$ git clone https://github.com/test mydirectory`
 - Local Repository Structure
 	1. Working Directory: The actual files reside here.
 	2. Index: The area used for staging
@@ -96,17 +96,17 @@ Keep changes separate until you want to add them in
 	2. You stage the modified file.
 	3. Then, you commit staged changes.
 - Check File Statue
-	- $ git status
+	- `$ git status`
 - Track a single file
-	- git add filename
+	- `git add filename`
 - Track All Files
-	- $ git add *
+	- `$ git add *`
 - To see information regarding chages to be committed
-	- $ git status
+	- `$ git status`
 	
 **Someother items/actions you can do:**
 
-[Click Here to see the 'Git Tutorial A Comprehensive Guide', it includes detailed information on items below!](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+[Click Here to see the Git Tutorial A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 Commit a File, Commit All Changes, Push Changes, Stash Changes, Seeing your remotes, adding remotes, fetching, pushing, renaming/removing remotes, undoing actions, unstaging a file, undoing a committed snapshot, unmodifying a file, creating a new branch, switching branches, create a branch and check-out, list > branches, merging, fast-forward merging, no fast-forward, three-way merge, fetch and merge, deleting branches, preview changes, listing branches, etc.
 	
