@@ -54,9 +54,20 @@ What are they? It is a text based interface to the system. You can type commands
 
 * Commands - typcially the first thing you type; (ls), (echo) to display messages, 
   * pwd - Print Working Directory (abbreviation) - it tells you your current/present working directory
-  * ls - list. Without arguments it will just do a plain listing of the current location. It can be run with (-l) indicates a long list or (-l /etc) which tells not to list our current directory but to list that directories contents. (ls -a) - lists the contents of a directory, including hidden files.
+  * ls - lists files and folders in your current directory. Without arguments it will just do a plain listing of the current location. It can be run with (-l) indicates a long list or (-l /etc) which tells not to list our current directory but to list that directories contents. (ls -a) - lists the contents of a directory, including hidden files.
   * CD - Change Directory. If ran without an argument it will take you back to the home directory. It is usually run with a single command line argument, ex. (cd ~/Documents), (cd ../../)
+  * - cd ,,/../../ (takes you back 3 directories)
+  * cd - (jumps you back to a previous directory)
   * file - obtain information about what type of file a file or directory is.
+  - touch - create a new file 
+  * code . - pull up the vs code
+  * mkdir - makes a folder or directory
+  * cp - copy command, copies a file, uses two arguments 1(what are you copying) 2(where is it going).
+  * rm - removes/deletes files and folders
+  * mv - moves and renames files and folders
+  * open . (opens gui, graphical user interface)
+ 
+
   
 * Argument - (-l /home/ryan)
   * Option - the first argument in a command line, used to modify the behaviour of the command. Usually listed before other arguments and typically start with a dash (-)  
@@ -68,6 +79,7 @@ What are they? It is a text based interface to the system. You can type commands
   
 * Shortcuts - ex. commands entered are store in a history. You can scroll back up to run the command again or you can edit the previous commands.
   * Tab Completion - Mechanism to auto complete filling out the path being written.
+  * control + L - will clean off previous commands
 
 * Path - whenever a reference is made to a file or directory on the command line it is infact a path, i.e, a path is a means to get to a particular file or directory on the system.
 
