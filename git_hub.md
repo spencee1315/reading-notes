@@ -106,7 +106,7 @@ Keep changes separate until you want to add them in
 	
 **Someother items/actions you can do:**
 
-![Click Here to see the 'Git Tutorial A Comprehensive Guide', it includes detailed information on items below!](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+[Click Here to see the 'Git Tutorial A Comprehensive Guide', it includes detailed information on items below!](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 Commit a File, Commit All Changes, Push Changes, Stash Changes, Seeing your remotes, adding remotes, fetching, pushing, renaming/removing remotes, undoing actions, unstaging a file, undoing a committed snapshot, unmodifying a file, creating a new branch, switching branches, create a branch and check-out, list > branches, merging, fast-forward merging, no fast-forward, three-way merge, fetch and merge, deleting branches, preview changes, listing branches, etc.
 	
