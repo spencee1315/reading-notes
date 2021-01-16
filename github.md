@@ -1,0 +1,13 @@
+# Review of terminal commands
+- pwd - show the current working directory
+- touch - create a new file 
+- code . - pull up the vs code
+- mkdir - makes a folder or directory
+- ls - lists files and folders in your current directory
+- cp - copy command, copies a file, uses two arguments 1(what are you copying) 2(where is it going).
+- rm - removes/deletes files and folders
+- mv - moves and renames files and folders
+- cd ,,/../../ (takes you back 3 directories)
+- cd - (jumps you back to a previous directory)
+- control + L - will clean off previous commands
+- open . (opens gui, graphical user interface)
