@@ -53,4 +53,4 @@ Avoid that 'Gumption Trap' - the phenomenon of knowing what needs to be done, bu
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coders_computer.md)
 - [Git Hub Notes](git_hub.md)
-
+- [HTML Reading Notes](class4_html_reading.md)
