@@ -18,13 +18,16 @@ CSS stands for cascading style sheets. It makes your site pretty, adds style to 
 Understand block vs inline elements.
 - Block level elements look like they start on a new line
     - Ex:
-    ''' html
+
+    ```html
     <h1>
     <p>
     <div>
-    '''
+    ```
+
 - Inline elements flow within the text and do not start a new line. 
     - Ex.:
+
     ```html
     <b>
     <i>
@@ -38,14 +41,17 @@ CSS allows you to create rule that control the way each individual box (and the 
 CSS works by associating rules with HTML elements. A CSS rule contains two parts: a *selector* and a *declaration*.
 Ex:
 selector    declaration
-```p {
+
+```css
+    p {
     font-family: Arial;
     }
 ```
 
 The declaration sits inside curly brackets and each is made up of two parts: a property and a value. You can specify several properties in one delcaration, each separated by a semi-colon.
 Ex.
-```
+
+```css
 h1, h2, h3 {
             font-family: Arial;
             color: yellow;
@@ -55,6 +61,7 @@ h1, h2, h3 {
 Using External CSS vs Internal CSS
 
 - External:
+
 ```css
 <link href="css/styles.css" type="text/css" rel="stylesheet" >
 ```
@@ -64,13 +71,14 @@ The link element can be used in an HTML doument to tell the browser where to fin
 An HTML page can use more than one CSS style sheet. To do this it could have a link element for every CSS file it uses. EX. one CSS file to control the presentation (such as fonts and colors) and a second to control the layout.
 
 - Internal:
+
 ```css
 <style type="text/css">
 ```
 
 
 Benefits to an External- 
-when building a site with ore than one page, you should use an eternal style sheet:
+Wen building a site with ore than one page, you should use an eternal style sheet:
 
 - Allows all pages to use the same style rules (rather than repeating them in each page)
 - Keeps the content separate from how the page looks.
@@ -83,7 +91,7 @@ when building a site with ore than one page, you should use an eternal style she
 
 - Foreground Color
 1. color - color property allows you to specify the color of text inside an element
-1. RGB Values - {color: rgb(100,100,90);} these express colors in teresm of how much red, green and blue is used to make it up
+1. RGB Values - *{color: rgb(100,100,90);}* these express colors in teresm of how much red, green and blue is used to make it up
 1. Hex Codes - {color: #ee3e80;} six digit codes that represent the aount of red, green, and blue are present.
 1. Color Names - there are 147 predefined color names recognized by browsers. Ex. DarkCyan
 
@@ -97,17 +105,18 @@ Things to consider when choosing color:
 * rgba - is a property in CSS3 that allows you to specify a color, just like you would with an RGB value but adss a fourth value to indicate opacity ***rgba(0,0,0,0.5)***. It will only affect the element it is on (not the child elements)
 * CSS3: HSL Colors
     ** HUE - the colloquial idea of color. Represented asa color circle, where the angel represents the color. 0-360. Ex.:
-    ```
+
+    ```css
      {background-color: hsl(0,0%,78%);}
      ```
      Ex. 2: hsla
-     ```
+
+     ```css
      {background-color: hsl(0,0%,78%,0.5);}
      ```
 
     ** Saturation - 0% is a shade of gray, 100% is full saturation
-    ** Lightness - 0% is black, 100% is white
-     
+    ** Lightness - 0% is black, 100% is white     
 
 
 Another good example of the power of CSS:
