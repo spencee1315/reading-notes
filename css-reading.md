@@ -21,22 +21,15 @@ Understand block vs inline elements.
 - Block level elements look like they start on a new line
 
 
- Ex: <br />
-   \* <h1> <br />
-   \* <p> <br />
-    \* <div> <br />
+ Ex: \*<h1>, <p>, <div>\*
     
     
 
 - Inline elements flow within the text and do not start a new line.
 
 
- - Ex.:<br />
-   \* <b> <br />
-   \* <i> <br />
-    \* <img> <br />
-    \* <em> <br />
-   \* <span> <br />
+ - Ex.:
+   \*<b>, <i>, <img>, <em>, <span>\*
    
 
 CSS allows you to create rule that control the way each individual box (and the contents of that box) is presented.
@@ -61,7 +54,7 @@ Ex. h1, h2, h3 {
 Using External CSS vs Internal CSS
 
 - External: 
-Ex. \* <link href="css/styles.css" type="text/css" rel="stylesheet" >
+Ex. \*<link href="css/styles.css" type="text/css" rel="stylesheet" >\*
 
 
 The link element can be used in an HTML doument to tell the browser where to find the CSS.
@@ -69,7 +62,7 @@ The link element can be used in an HTML doument to tell the browser where to fin
 An HTML page can use more than one CSS style sheet. To do this it could have a link element for every CSS file it uses. EX. one CSS file to control the presentation (such as fonts and colors) and a second to control the layout.
 
 - Internal: 
-Ex. \* <style type="text/css">
+Ex. \*<style type="text/css">\*
 
 
 Benefits to an External- 
