@@ -18,23 +18,19 @@ CSS stands for cascading style sheets. It makes your site pretty, adds style to 
 Understand block vs inline elements.
 - Block level elements look like they start on a new line
     - Ex:
-
-    ```html
-    <h1>
-    <p>
-    <div>
-    ```
+    <h1> <br />
+    <p> <br />
+    <div> <br />
+    
 
 - Inline elements flow within the text and do not start a new line. 
     - Ex.:
-
-    ```html
-    <b>
-    <i>
-    <img>
-    <em>
-    <span>
-    ```
+    <b> <br />
+    <i> <br />
+    <img> <br />
+    <em> <br />
+    <span> <br />
+   
 
 CSS allows you to create rule that control the way each individual box (and the contents of that box) is presented.
 
@@ -42,39 +38,30 @@ CSS works by associating rules with HTML elements. A CSS rule contains two parts
 Ex:
 selector    declaration
 
-```css
+css
     p {
     font-family: Arial;
     }
-```
+
 
 The declaration sits inside curly brackets and each is made up of two parts: a property and a value. You can specify several properties in one delcaration, each separated by a semi-colon.
-Ex.
 
-```css
-h1, h2, h3 {
+Ex. h1, h2, h3 {
             font-family: Arial;
             color: yellow;
             }
-```
+
 
 Using External CSS vs Internal CSS
 
-- External:
+- External: Ex. *<link href="css/styles.css" type="text/css" rel="stylesheet" >*
 
-```css
-<link href="css/styles.css" type="text/css" rel="stylesheet" >
-```
 
 The link element can be used in an HTML doument to tell the browser where to find the CSS.
 
 An HTML page can use more than one CSS style sheet. To do this it could have a link element for every CSS file it uses. EX. one CSS file to control the presentation (such as fonts and colors) and a second to control the layout.
 
-- Internal:
-
-```css
-<style type="text/css">
-```
+- Internal: Ex. *<style type="text/css">*
 
 
 Benefits to an External- 
@@ -99,24 +86,17 @@ Wen building a site with ore than one page, you should use an eternal style shee
 
 Things to consider when choosing color:
 * Contrast - when picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible.
-    ** Text is easier to read when there is higher contrast between the background and foreground colors.
-    ** If the text is revesed out (a lighter color on a darker background) the height or spacing between the lines can be increased and the weight of the font can be increased to make it easier to read.
+    * Text is easier to read when there is higher contrast between the background and foreground colors.
+    * If the text is revesed out (a lighter color on a darker background) the height or spacing between the lines can be increased and the weight of the font can be increased to make it easier to read.
 * Opacity - a property in CSS3 that allows you to specify the opacity of its child elements. The vlue is a number between 0.0 and 1.0.
 * rgba - is a property in CSS3 that allows you to specify a color, just like you would with an RGB value but adss a fourth value to indicate opacity ***rgba(0,0,0,0.5)***. It will only affect the element it is on (not the child elements)
 * CSS3: HSL Colors
-    ** HUE - the colloquial idea of color. Represented asa color circle, where the angel represents the color. 0-360. Ex.:
-
-    ```css
-     {background-color: hsl(0,0%,78%);}
-     ```
-     Ex. 2: hsla
-
-     ```css
-     {background-color: hsl(0,0%,78%,0.5);}
-     ```
-
-    ** Saturation - 0% is a shade of gray, 100% is full saturation
-    ** Lightness - 0% is black, 100% is white     
+* HUE - the colloquial idea of color. Represented asa color circle, where the angel represents the color. 0-360.
+    * Ex.: {background-color: hsl(0,0%,78%);}
+    * Ex. 2: hsla {background-color: hsl(0,0%,78%,0.5);}
+    
+* Saturation - 0% is a shade of gray, 100% is full saturation
+* Lightness - 0% is black, 100% is white     
 
 
 Another good example of the power of CSS:
