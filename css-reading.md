@@ -16,65 +16,61 @@ CSS stands for cascading style sheets. It makes your site pretty, adds style to 
 **The Key: to understanding how CSS works is to imagine that there is an invisible box around every HTML element.**
 
 Understand block vs inline elements.
+
+
 - Block level elements look like they start on a new line
 
- ```
-    - Ex:
+
+    - Ex: <br />
     <h1> <br />
     <p> <br />
     <div> <br />
-    ```
+    
     
 
 - Inline elements flow within the text and do not start a new line.
 
-``` - Ex.:
+
+ - Ex.:<br />
     <b> <br />
     <i> <br />
     <img> <br />
     <em> <br />
     <span> <br />
-    ```
    
 
 CSS allows you to create rule that control the way each individual box (and the contents of that box) is presented.
 
 CSS works by associating rules with HTML elements. A CSS rule contains two parts: a *selector* and a *declaration*.
 Ex:
-```
-selector    declaration
 
+selector    declaration
 css
     p {
     font-family: Arial;
     }
-```
 
 
 The declaration sits inside curly brackets and each is made up of two parts: a property and a value. You can specify several properties in one delcaration, each separated by a semi-colon.
 
-```
 Ex. h1, h2, h3 {
             font-family: Arial;
             color: yellow;
             }
-```
 
 Using External CSS vs Internal CSS
 
 - External: 
-```
-Ex. *<link href="css/styles.css" type="text/css" rel="stylesheet" >*
-```
+Ex. <link href="css/styles.css" type="text/css" rel="stylesheet" >
+
 
 The link element can be used in an HTML doument to tell the browser where to find the CSS.
 
 An HTML page can use more than one CSS style sheet. To do this it could have a link element for every CSS file it uses. EX. one CSS file to control the presentation (such as fonts and colors) and a second to control the layout.
 
 - Internal: 
-```
-Ex. *<style type="text/css">*
-```
+Ex. <style type="text/css">
+
 
 Benefits to an External- 
 Wen building a site with ore than one page, you should use an eternal style sheet:
