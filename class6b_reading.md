@@ -33,7 +33,7 @@ This is notes taken from watching a selection of videos from Code.org.
     - When computers connect the output of one computer becomes the input of another & vice-versa
 
 
-1. Ones & Zeros
+2. Ones & Zeros
 
 **How do you store or represent information with electricity?**
 
@@ -86,7 +86,7 @@ Consider:
 
 - If you want to understand how a computer work it all comes down to understanding 1's and 0's and the electrical currents that help them function.
 
-1. The Art From and Power of Circutry -
+3. The Art From and Power of Circutry -
 
 - Circuits: the backbone of processing
     - Processing input & Output

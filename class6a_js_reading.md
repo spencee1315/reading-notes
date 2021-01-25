@@ -1,4 +1,4 @@
-# This is my reading from CODE-102 class 4 on HTML
+# This is my reading from CODE-102 class 6 on Javascript
 
 This is reading from the book JavaScript & jQuery by Jon Duckett
 
