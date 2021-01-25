@@ -6,8 +6,7 @@ This is notes taken from watching a selection of videos from Code.org.
 
 
 ## My 3 Most Significant Takeaways from watching the videos
-
-#### All computers no matter how simple or complex all are based on the same fundamental goal - how to create a thinking machine:
+### All computers no matter how simple or complex all are based on the same fundamental goal - how to create a thinking machine:
 
  - All computers do the same 4 things:
     - Take Input
@@ -32,8 +31,8 @@ This is notes taken from watching a selection of videos from Code.org.
     - Ex. - Text, Photos, Videos, Games, VR, Robots
     - When computers connect the output of one computer becomes the input of another & vice-versa
 
-#### Ones & Zeros
 
+### Ones & Zeros
 **How do you store or represent information with electricity?**
 
 - With one wire:
@@ -85,7 +84,8 @@ Consider:
 
 - If you want to understand how a computer work it all comes down to understanding 1's and 0's and the electrical currents that help them function.
 
-#### The Art From and Power of Circutry -
+
+### The Art From and Power of Circutry -
 
 - Circuits: the backbone of processing
     - Processing input & Output
