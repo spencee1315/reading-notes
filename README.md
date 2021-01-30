@@ -58,4 +58,4 @@ Avoid that 'Gumption Trap' - the phenomenon of knowing what needs to be done, bu
 - [Class 6a Reading- Dynamic Web Pages](class6a_js_reading.md)
 - [Class 6b Reading - Computer Architecture and Logic](class6b_reading.md)
 - [Class 7 Reading - Programming with Javascript](class7_programming_javascript.md)
-- [Class 8 Reading - Operators and Loops]
+- [Class 8 Reading - Operators and Loops](class8_operatorsLoopsReading.md)

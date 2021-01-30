@@ -70,5 +70,4 @@ Loops check a condition to evaluate if it's true. It will continue to run until 
 - The loop will continue to run as long as the condition in the parentheses is true.
 - A typical use of the while loop is when you do not know how many times you want the code to run; it should run until the conditions are met.
 
-    
 [<== Back to Readme](README.md)
